@@ -43,7 +43,7 @@
       <td align="center">
         <a href="https://github.com/nhat092005/DSA-LeetCode">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=DSA-LeetCode&theme=dark#gh-dark-mode-only&border_radius=12&v=1" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=DSA-LeetCode&theme=dark#gh-dark-mode-only&border_radius=12&v=2" />
         </a>
       </td>
     </tr>
