@@ -29,7 +29,7 @@
 
 ---
 
-## Featured repositories
+## Featured repositories ⭐
 
 <div align="center">
   <table>
