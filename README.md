@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-My stats ⭐
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nhat092005/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nhat092005"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat092005&layout=compact"/>
