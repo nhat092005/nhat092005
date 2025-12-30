@@ -41,7 +41,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/nhat092005/DSA-LeetCode">
+        <a href="https://github.com/nhat092005/SMART_HOME">
           <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=SMART_HOME&theme=dark#gh-dark-mode-only&border_radius=12&v=2" />
         </a>
