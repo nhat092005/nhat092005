@@ -5,8 +5,6 @@ I'm an Embedded & IoT Developer
 - 🎓 Student passionate about embedded systems and IoT
   
 - 🛠️ Enjoy designing hardware circuits and writing firmware
-  
-- 📫 Reach me: [minnhat092005@gmail.com](mailto:minhnhat092005@gmail.com)
 
 <!-- Light Mode -->
 <div align="center"> 
