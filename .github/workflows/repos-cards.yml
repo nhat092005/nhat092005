@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=meeTeam05&repo=datalogger'
+          options: 'username=nhat092005&repo=datalogger'
           path: profile/repo1-light.svg
           token: ${{ secrets.PAT }}
 
@@ -33,7 +33,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=meeTeam05&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          options: 'username=nhat092005&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
           path: profile/repo1-dark.svg
           token: ${{ secrets.PAT }}
 
