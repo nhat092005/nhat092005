@@ -1,6 +1,8 @@
 name: Update Pinned Repos
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Chạy mỗi 24h lúc 00:00 UTC
   push:
     branches: [main]
 
