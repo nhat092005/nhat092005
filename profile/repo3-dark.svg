@@ -1,5 +1,29 @@
-The deployment is currently unavailable
-
-DEPLOYMENT_PAUSED
-
-cle1::hfgwb-1771015600096-6ffa0ed3c548
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .repo-card { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title { font-size: 16px; font-weight: 600; fill: #58a6ff; }
+    .description { font-size: 13px; fill: #c9d1d9; }
+    .stats { font-size: 12px; fill: #c9d1d9; }
+  </style>
+  
+  <rect width="400" height="120" rx="6" fill="#0d1117" stroke="#c9d1d9" stroke-width="1" opacity="0.2"/>
+  
+  <!-- Title -->
+  <text x="15" y="30" class="repo-card title">build-os</text>
+  
+  <!-- Description -->
+  <text x="15" y="55" class="repo-card description">None</text>
+  
+  <!-- Stats -->
+  <g class="repo-card stats">
+    <!-- Language -->
+    <circle cx="15" cy="95" r="6" fill="#58a6ff"/>
+    <text x="28" y="100">C</text>
+    
+    <!-- Stars -->
+    <text x="120" y="100">⭐ 1</text>
+    
+    <!-- Forks -->
+    <text x="200" y="100">🔀 0</text>
+  </g>
+</svg>
