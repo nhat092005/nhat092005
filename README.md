@@ -1,51 +1,12 @@
 # Minh Nhật (nhat092005)
 
-> Embedded & IoT developer
+Embedded & IoT developer
 
----
-
-## My stats ⭐
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <!-- Stats có xếp hạng A/B/C/D -->
-        <img
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=nhat092005&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"
-          height="200" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Top languages -->
-        <img
-          alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=nhat092005&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only&border_radius=12&v=1"
-          height="200" />
-      </td>
-    </tr>
-  </table>
+<div align="center"> 
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat092005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=nhat092005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 </div>
 
----
-
-## Featured repositories ⭐
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/meeTeam05/DATALOGGER">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=meeTeam05&repo=DATALOGGER&theme=dark#gh-dark-mode-only&border_radius=12&v=1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/nhat092005/SMART_HOME">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=SMART_HOME&theme=dark#gh-dark-mode-only&border_radius=12&v=2" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/nhat092005/nhat092005/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
