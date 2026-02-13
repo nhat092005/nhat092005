@@ -38,6 +38,28 @@ I'm an Embedded & IoT Developer
   <img src="https://raw.githubusercontent.com/nhat092005/nhat092005/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 </div>
 
+<!-- Light Mode -->
+<div align="center">
+  <img src="./profile/repo1-light.svg#gh-light-mode-only" height="190"/>
+  <img src="./profile/repo2-light.svg#gh-light-mode-only" height="190"/>
+</div>
+
+<div align="center">
+  <img src="./profile/repo3-light.svg#gh-light-mode-only" height="190"/>
+  <img src="./profile/repo4-light.svg#gh-light-mode-only" height="190"/>
+</div>
+
+<!-- Dark Mode -->
+<div align="center">
+  <img src="./profile/repo1-dark.svg#gh-dark-mode-only" height="190"/>
+  <img src="./profile/repo2-dark.svg#gh-dark-mode-only" height="190"/>
+</div>
+
+<div align="center">
+  <img src="./profile/repo3-dark.svg#gh-dark-mode-only" height="190"/>
+  <img src="./profile/repo4-dark.svg#gh-dark-mode-only" height="190"/>
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
