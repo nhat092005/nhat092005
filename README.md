@@ -6,9 +6,24 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhat092005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat092005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
+<!-- Light Mode -->
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Most Used Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="./profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats" />
+  </a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Most Used Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  </a>
 </div>
 
 ---
