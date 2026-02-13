@@ -19,75 +19,43 @@ jobs:
 
       # Repo 1 - Light Mode
       - name: Generate repo 1 (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=meeTeam05&repo=datalogger'
-          path: profile/repo1-light.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo1-light.svg "https://github-readme-stats.vercel.app/api/pin/?username=meeTeam05&repo=datalogger"
 
       # Repo 1 - Dark Mode
       - name: Generate repo 1 (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=meeTeam05&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
-          path: profile/repo1-dark.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo1-dark.svg "https://github-readme-stats.vercel.app/api/pin/?username=meeTeam05&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true"
 
       # Repo 2 - Light Mode
       - name: Generate repo 2 (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=smart-home'
-          path: profile/repo2-light.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo2-light.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=smart-home"
 
       # Repo 2 - Dark Mode
       - name: Generate repo 2 (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=smart-home&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
-          path: profile/repo2-dark.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo2-dark.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=smart-home&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true"
 
       # Repo 3 - Light Mode
       - name: Generate repo 3 (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=build-os'
-          path: profile/repo3-light.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo3-light.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=build-os"
 
       # Repo 3 - Dark Mode
       - name: Generate repo 3 (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=build-os&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
-          path: profile/repo3-dark.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo3-dark.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=build-os&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true"
 
       # Repo 4 - Light Mode
       - name: Generate repo 4 (light mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=cadence-vlsi-lab'
-          path: profile/repo4-light.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo4-light.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=cadence-vlsi-lab"
 
       # Repo 4 - Dark Mode
       - name: Generate repo 4 (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: 'username=nhat092005&repo=cadence-vlsi-lab&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
-          path: profile/repo4-dark.svg
-          token: ${{ secrets.PAT }}
+        run: |
+          curl -o profile/repo4-dark.svg "https://github-readme-stats.vercel.app/api/pin/?username=nhat092005&repo=cadence-vlsi-lab&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true"
 
       - name: Commit pinned repos
         run: |
