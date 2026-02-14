@@ -1,4 +1,6 @@
-I'm an Embedded & IoT Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF006E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nhat092005;I'm+an+Embedded+%26+IoT+Developer">
+</p>
 
 **About me**
 
@@ -6,58 +8,97 @@ I'm an Embedded & IoT Developer
   
 - 🛠️ Enjoy designing hardware circuits and writing firmware
 
-<!-- Light Mode -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Most Used Languages" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="./profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats" />
-  </a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Most Used Languages" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" />
-  </a>
-</div>
-
-<!-- Light Mode -->
+<!-- Light Mode Stats -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nhat092005/nhat092005/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img width="100%" src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Most Used Languages" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img width="100%" src="./profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-<!-- Dark Mode -->
+<!-- Dark Mode Stats -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nhat092005/nhat092005/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img width="100%" src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Most Used Languages" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img width="100%" src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-<!-- Light Mode -->
+<!-- Light Mode Snake -->
 <div align="center">
-  <img src="./profile/repo1-light.svg#gh-light-mode-only" height="190"/>
-  <img src="./profile/repo2-light.svg#gh-light-mode-only" height="190"/>
+  <img width="100%" style="max-width: 800px;" src="https://raw.githubusercontent.com/nhat092005/nhat092005/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
+<!-- Dark Mode Snake -->
 <div align="center">
-  <img src="./profile/repo3-light.svg#gh-light-mode-only" height="190"/>
-  <img src="./profile/repo4-light.svg#gh-light-mode-only" height="190"/>
+  <img width="100%" style="max-width: 800px;" src="https://raw.githubusercontent.com/nhat092005/nhat092005/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 </div>
 
-<!-- Dark Mode -->
+<!-- Light Mode Repos -->
 <div align="center">
-  <img src="./profile/repo1-dark.svg#gh-dark-mode-only" height="190"/>
-  <img src="./profile/repo2-dark.svg#gh-dark-mode-only" height="190"/>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo1-light.svg#gh-light-mode-only" alt="Repo 1"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo2-light.svg#gh-light-mode-only" alt="Repo 2"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo3-light.svg#gh-light-mode-only" alt="Repo 3"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo4-light.svg#gh-light-mode-only" alt="Repo 4"/>
+    </td>
+  </tr>
+</table>
 </div>
 
+<!-- Dark Mode Repos -->
 <div align="center">
-  <img src="./profile/repo3-dark.svg#gh-dark-mode-only" height="190"/>
-  <img src="./profile/repo4-dark.svg#gh-dark-mode-only" height="190"/>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo1-dark.svg#gh-dark-mode-only" alt="Repo 1"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo2-dark.svg#gh-dark-mode-only" alt="Repo 2"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo3-dark.svg#gh-dark-mode-only" alt="Repo 3"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img width="100%" src="./profile/repo4-dark.svg#gh-dark-mode-only" alt="Repo 4"/>
+    </td>
+  </tr>
+</table>
 </div>
 
+<!-- Tech Stack -->
 <div align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
