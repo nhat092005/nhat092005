@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0,6,12,18 * * *"
-  push:
-    branches: [main]
 
 jobs:
   update-cards:
@@ -62,4 +60,3 @@ jobs:
           author_email: nhat092005@users.noreply.github.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
