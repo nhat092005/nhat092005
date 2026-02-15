@@ -1,0 +1,105 @@
+name: Update Pinned Repos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches: [main]
+
+jobs:
+  update-pinned-repos:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: Update pinned repositories cards
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Ensure output folder
+        run: mkdir -p profile
+      
+      # Repo 1 - Light Mode
+      - name: Generate repo 1 (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=datalogger'
+          path: profile/repo1-light.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 1 - Dark Mode
+      - name: Generate repo 1 (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          path: profile/repo1-dark.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 2 - Light Mode
+      - name: Generate repo 2 (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=smart-home'
+          path: profile/repo2-light.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 2 - Dark Mode
+      - name: Generate repo 2 (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=smart-home&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          path: profile/repo2-dark.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 3 - Light Mode
+      - name: Generate repo 3 (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=build-os'
+          path: profile/repo3-light.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 3 - Dark Mode
+      - name: Generate repo 3 (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=build-os&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          path: profile/repo3-dark.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 4 - Light Mode
+      - name: Generate repo 4 (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=cadence-vlsi-lab'
+          path: profile/repo4-light.svg
+          token: ${{ secrets.PAT }}
+      
+      # Repo 4 - Dark Mode
+      - name: Generate repo 4 (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=nhat092005&repo=cadence-vlsi-lab&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          path: profile/repo4-dark.svg
+          token: ${{ secrets.PAT }}
+      
+      - name: Commit pinned repos
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'profile/*.svg'
+          message: 'docs: update pinned repos cards'
+          author_name: nhat092005
+          author_email: nhat092005@users.noreply.github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
