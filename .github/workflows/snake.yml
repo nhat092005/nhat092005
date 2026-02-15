@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 1,5,9,13,17,21 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?palette=github-light
+            profile/snake-dark.svg?palette=github-dark
+      
+      - name: Push to main branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'profile/*.svg'
+          message: 'docs: update contribution snake'
+          author_name: nhat092005
+          author_email: nhat092005@users.noreply.github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
