@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    branches: [main]
 
 jobs:
   update-pinned-repos:
@@ -24,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=datalogger'
+          options: 'username=nhat092005&repo=datalogger&show_languages=true&langs_count=3'
           path: profile/repo1-light.svg
           token: ${{ secrets.PAT }}
       
@@ -33,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          options: 'username=nhat092005&repo=datalogger&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&show_languages=true&langs_count=3'
           path: profile/repo1-dark.svg
           token: ${{ secrets.PAT }}
       
@@ -42,7 +44,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=smart-home'
+          options: 'username=nhat092005&repo=smart-home&show_languages=true&langs_count=3'
           path: profile/repo2-light.svg
           token: ${{ secrets.PAT }}
       
@@ -51,7 +53,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=smart-home&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          options: 'username=nhat092005&repo=smart-home&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&show_languages=true&langs_count=3'
           path: profile/repo2-dark.svg
           token: ${{ secrets.PAT }}
       
@@ -60,7 +62,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=build-os'
+          options: 'username=nhat092005&repo=build-os&show_languages=true&langs_count=3'
           path: profile/repo3-light.svg
           token: ${{ secrets.PAT }}
       
@@ -69,7 +71,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=build-os&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          options: 'username=nhat092005&repo=build-os&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&show_languages=true&langs_count=3'
           path: profile/repo3-dark.svg
           token: ${{ secrets.PAT }}
       
@@ -78,7 +80,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=cadence-vlsi-lab'
+          options: 'username=nhat092005&repo=cadence-vlsi-lab&show_languages=true&langs_count=3'
           path: profile/repo4-light.svg
           token: ${{ secrets.PAT }}
       
@@ -87,7 +89,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: 'username=nhat092005&repo=cadence-vlsi-lab&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true'
+          options: 'username=nhat092005&repo=cadence-vlsi-lab&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&show_languages=true&langs_count=3'
           path: profile/repo4-dark.svg
           token: ${{ secrets.PAT }}
       
