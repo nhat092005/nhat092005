@@ -91,3 +91,5 @@
   <img src="https://img.shields.io/badge/FreeRTOS-00A98F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3ek0xMiA0LjVsNy41IDMuNzVWMTZsLTcuNSAzLjc1TDQuNSAxNlY4LjI1eiIvPjwvc3ZnPg==&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<code><img height="30" alt="stm32" src="https://raw.githubusercontent.com/nhat092005/nhat092005/main/assets/st-icon.svg"></code>
