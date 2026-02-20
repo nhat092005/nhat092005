@@ -92,4 +92,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<code><img height="30" alt="stm32" src="https://raw.githubusercontent.com/nhat092005/nhat092005/main/assets/st-icon.svg"></code>
+<code><img height="30" alt="stm32" style="border-radius: 6px;" src="https://raw.githubusercontent.com/nhat092005/nhat092005/main/assets/st-icon.svg"></code>
