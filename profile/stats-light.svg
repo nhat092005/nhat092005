@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MinhNhat's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 1213, Total PRs: 33, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 1216, Total PRs: 33, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 190.66287065512134;
+        stroke-dashoffset: 190.62533582336272;
       }
     }
   
