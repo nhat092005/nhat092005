@@ -1,0 +1,6 @@
+Programming     : C/C++, Python, Bash
+OS/Platforms    : Embedded Linux (Yocto, Buildroot), FreeRTOS, ESP32, STM32
+Kernel & Driver : Device Tree, Kconfig, out-of-tree modules, aarch64 cross-compile
+Protocols       : UART, I2C, SPI, MQTT, HTTP/S, WebSocket, TCP/UDP
+Tools           : GCC, Make, CMake, Git, Docker, GitHub Actions
+Hardware        : PCB design (Altium, KiCad)

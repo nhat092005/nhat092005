@@ -1,0 +1,4 @@
+Name      : Minh Nhat
+Role      : Embedded & IoT Developer
+Hardware  : STM32 | ESP32 | RPi4 | Beaglebone
+Interests : Firmware, Circuit Design, Linux
