@@ -28,7 +28,7 @@ Hardware        : PCB design (Altium, KiCad)
 - **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS built with Buildroot.
 - **[Smart-Air](https://github.com/meeTeam05/smart-air)** - Indoor air monitoring platform with ESP32-S3, mobile app, and cloud backend
 - **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 environmental datalogger with cloud sync and remote control
-- **[Smart-Home](github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB
+- **[Smart-Home](https://github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB
 - **[Agents-Skills](https://github.com/nhat092005/skills)** - Personal AI workspace with custom agents, skills, and dev workflows
 
 ## Stats
