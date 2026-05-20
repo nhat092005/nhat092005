@@ -1,3 +1,5 @@
+# Hi, I'm MinhNhat
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF006E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nhat092005;I'm+an+Embedded+%26+IoT+Developer">
 </p>
@@ -20,6 +22,17 @@ Tools           : GCC, Make, CMake, Git, Docker, GitHub Actions
 Hardware        : PCB design (Altium, KiCad)
 ```
 
+## Current Projects
+
+- **[BeagleBone-BSP](https://github.com/nhat092005/beaglebone-bsp)** - Self-learning BSP workspace for BeagleBone Black / TI AM335x.
+- **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS built with Buildroot.
+- **[Smart-Air](https://github.com/meeTeam05/smart-air)** - Indoor air monitoring platform with ESP32-S3, mobile app, and cloud backend
+- **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 environmental datalogger with cloud sync and remote control
+- **[Smart-Home](github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB
+- **[Agents-Skills](https://github.com/nhat092005/skills)** - Personal AI workspace with custom agents, skills, and dev workflows
+
+## Stats
+
 <!-- Light Mode Stats -->
 <p align="center">
   <a href="https://github.com/nhat092005#gh-light-mode-only">
@@ -39,6 +52,8 @@ Hardware        : PCB design (Altium, KiCad)
     <img width="49%" src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" />
   </a>
 </p>
+
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhat092005/nhat092005/main/profile/snake-dark.svg">
