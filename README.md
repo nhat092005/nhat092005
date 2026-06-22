@@ -24,7 +24,7 @@ Hardware        : PCB design (Altium, KiCad)
 
 ## Current Projects
 
-- **[BeagleBone-BSP](https://github.com/nhat092005/beaglebone-bsp)** - Self-learning BSP workspace for BeagleBone Black / TI AM335x.
+- **[BeagleBone-Optimal](https://github.com/nhat092005/beaglebone-optimal)** - Self-learning BSP workspace for BeagleBone Black / TI AM335x.
 - **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS built with Buildroot.
 - **[Smart-Air](https://github.com/meeTeam05/smart-air)** - Indoor air monitoring platform with ESP32-S3, mobile app, and cloud backend
 - **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 environmental datalogger with cloud sync and remote control
