@@ -1,0 +1,15 @@
+Name      : Minh Nhat
+Role      : Embedded Linux Engineer
+Location  : HCMC, VN
+Email     : minhnhat092005@gmail.com
+GitHub    : github.com/nhat092005
+LinkedIn  : linkedin.com/in/minhnhat092005
+Interests : Firmware, Circuit Design, Linux
+
+Programming           : C/C++, Python, Bash
+OS & Platforms        : Embedded Linux (Buildroot, Yocto), FreeRTOS (ESP32)
+SoC & MCU             : AM335x (BeagleBone Black), BCM2711 (Raspberry Pi 4), ESP32, STM32
+Software & BSP        : Linux Kernel, Device Tree, Kernel Modules, Kconfig, U-Boot, ESP-IDF, STM32 HAL, LVGL, Qt6/QML
+Interfaces & Protocols: GPIO, UART, I2C, SPI, BLE, MQTT, TCP/IP, OTA
+Development Tools     : GCC Toolchain, Make, CMake, BitBake, Git, Docker, GitHub Actions
+PCB Design            : KiCad, Altium Designer

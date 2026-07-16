@@ -1,25 +1,28 @@
 # Hi, I'm MinhNhat
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF006E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nhat092005;I'm+an+Embedded+%26+IoT+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF006E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+nhat092005;I'm+an+Embedded+Developer">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=nhat092005)
 
 ```bash
-cat about.txt
+cat profile.txt
 Name      : Minh Nhat
-Role      : Embedded & IoT Developer
-Hardware  : STM32 | ESP32 | RPi4 | Beaglebone
+Role      : Embedded Linux Engineer
+Location  : HCMC, VN
+Email     : minhnhat092005@gmail.com
+GitHub    : github.com/nhat092005
+LinkedIn  : linkedin.com/in/minhnhat092005
 Interests : Firmware, Circuit Design, Linux
 
-cat skills.txt
-Programming     : C/C++, Python, Bash
-OS/Platforms    : Embedded Linux (Yocto, Buildroot), FreeRTOS, ESP32, STM32
-Kernel & Driver : Device Tree, Kconfig, out-of-tree modules, aarch64 cross-compile
-Protocols       : UART, I2C, SPI, MQTT, HTTP/S, WebSocket, TCP/UDP
-Tools           : GCC, Make, CMake, Git, Docker, GitHub Actions
-Hardware        : PCB design (Altium, KiCad)
+Programming           : C/C++, Python, Bash
+OS & Platforms        : Embedded Linux (Buildroot, Yocto), FreeRTOS (ESP32)
+SoC & MCU             : AM335x (BeagleBone Black), BCM2711 (Raspberry Pi 4), ESP32, STM32
+Software & BSP        : Linux Kernel, Device Tree, Kernel Modules, Kconfig, U-Boot, ESP-IDF, STM32 HAL, LVGL, Qt6/QML
+Interfaces & Protocols: GPIO, UART, I2C, SPI, BLE, MQTT, TCP/IP, OTA
+Development Tools     : GCC Toolchain, Make, CMake, BitBake, Git, Docker, GitHub Actions
+PCB Design            : KiCad, Altium Designer
 ```
 
 ## Current Projects
