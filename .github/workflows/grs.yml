@@ -3,7 +3,7 @@ name: GitHub Readme Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1,9,17 * * *"
+    - cron: "0 1 * * *"
   push:
     branches: [main]
 
