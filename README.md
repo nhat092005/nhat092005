@@ -27,12 +27,27 @@ PCB Design            : KiCad, Altium Designer
 
 ## Current Projects
 
-- **[BeagleBone-Optimal](https://github.com/nhat092005/beaglebone-optimal)** - Self-learning BSP workspace for BeagleBone Black / TI AM335x.
-- **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS built with Buildroot.
-- **[Smart-Air](https://github.com/meeTeam05/smart-air)** - Indoor air monitoring platform with ESP32-S3, mobile app, and cloud backend
-- **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 environmental datalogger with cloud sync and remote control
-- **[Smart-Home](https://github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB
-- **[Agents-Skills](https://github.com/nhat092005/skills)** - Personal AI workspace with custom agents, skills, and dev workflows
+### Embedded Linux / BSP
+* **[BeagleBone-Optimal](https://github.com/nhat092005/beaglebone-optimal)** - Yocto BSP workspace for BeagleBone Black / AM335x: custom environment-sensor kernel driver (SHT3x/BH1750), ~1.3s kernel-to-shell boot, and a production Qt6 kiosk dashboard.
+* **[BeagleBone-BSP](https://github.com/nhat092005/beaglebone-bsp)** - Self-learning BSP workspace for BeagleBone Black / TI AM335x: bootloader, kernel/device tree, and Yocto packaging (early stage).
+* **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS built with Buildroot.
+
+### Embedded Systems & IoT
+* **[Smart-Air](https://github.com/meeTeam05/smart-air)** - Indoor air monitoring platform with ESP32-S3, mobile app, and cloud backend.
+* **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 environmental datalogger with cloud sync and remote control.
+* **[Smart-Home](https://github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB.
+* **[ST7789 + XPT2046 TFT Driver](https://github.com/nhat092005/stm-st7789-xpt2046)** - STM32 driver for the ST7789 TFT display combined with the XPT2046 resistive touch controller.
+* **[STM32 Peripherals & Protocols](https://github.com/nhat092005/stm-basic-protocol)** - STM32F103 (HAL) projects covering GPIO, ADC, PWM, timers, UART/I2C/SPI, OLED/TFT displays with LVGL, and DMA-driven ring buffers.
+* **[8051 Microcontroller Projects](https://github.com/nhat092005/8051-exam)** - Assembly and C exercises on the AT89C52 (8051 family) covering GPIO, timers, and interrupts, built in Keil uVision with Proteus simulation.
+* **[Embedded C Bit-Manipulation Exercises](https://github.com/nhat092005/ewskills-c)** - Practice exercises in C for register-level bit operations (set/clear/toggle/check bits, macros) common in embedded firmware.
+
+### FPGA & VLSI
+* **[FPGA Digital Logic Collection](https://github.com/nhat092005/fgpa-exam)** - Verilog HDL projects (adders, counters, FSMs, decoders, display drivers) built and simulated in Xilinx ISE / ISim for Spartan/Artix FPGAs.
+* **[Cadence VLSI Lab](https://github.com/nhat092005/cadence-vlsi-lab)** - VLSI design lab work using Cadence custom IC tools.
+
+### Software & Tools
+* **[Fibonacci Heap vs Binary Heap Benchmark](https://github.com/nhat092005/fibheap-analysis-bench)** - DSA coursework comparing Fibonacci Heap and Binary Heap in Dijkstra's algorithm via amortized (potential-method) analysis, with Python benchmarks and MATLAB plotting.
+* **[Agents-Skills](https://github.com/nhat092005/skills)** - Personal AI workspace with custom agents, skills, and dev workflows (Claude Code, Codex, and reusable skill/plugin configs).
 
 ## Stats
 
