@@ -14,7 +14,6 @@ Location  : HCMC, VN
 Email     : minhnhat092005@gmail.com
 GitHub    : github.com/nhat092005
 LinkedIn  : linkedin.com/in/minhnhat092005
-Interests : Firmware, Circuit Design, Linux
 
 Programming           : C/C++, Python, Bash
 OS & Platforms        : Embedded Linux (Buildroot, Yocto), FreeRTOS (ESP32)
