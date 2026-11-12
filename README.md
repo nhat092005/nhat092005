@@ -29,24 +29,14 @@ PCB Design            : KiCad, Altium Designer
 
 ### Embedded Linux / BSP
 * **[BeagleBone-Optimal](https://github.com/nhat092005/beaglebone-optimal)** - Yocto BSP for BeagleBone Black with custom sensor driver, fast boot (~1.3s), and Qt6 dashboard.
-* **[BeagleBone-BSP](https://github.com/nhat092005/beaglebone-bsp)** - Self-learning BSP workspace for BeagleBone Black (early stage).
 * **[Raspberry-OS](https://github.com/nhat092005/build-os)** - Custom embedded Linux OS with Buildroot.
 
 ### Embedded Systems & IoT
 * **[Smart-Air](https://github.com/meeTeam05/smart-air)** - ESP32-S3 air monitoring platform with mobile app and cloud backend.
 * **[DataLogger](https://github.com/meeTeam05/datalogger)** - STM32 + ESP32 datalogger with cloud sync and remote control.
 * **[Smart-Home](https://github.com/nhat092005/smart-home)** - ESP32 smart home platform with web, mobile, and custom PCB.
-* **[ST7789 + XPT2046 TFT Driver](https://github.com/nhat092005/stm-st7789-xpt2046)** - STM32 driver for TFT display + touch controller.
-* **[STM32 Peripherals & Protocols](https://github.com/nhat092005/stm-basic-protocol)** - GPIO, ADC, PWM, UART/I2C/SPI, OLED/TFT, DMA on STM32.
-* **[8051 Microcontroller Projects](https://github.com/nhat092005/8051-exam)** - ASM/C exercises on AT89C52, Keil + Proteus.
-* **[Embedded C Bit-Manipulation Exercises](https://github.com/nhat092005/ewskills-c)** - Register bit-ops exercises in C.
-
-### FPGA & VLSI
-* **[FPGA Digital Logic Collection](https://github.com/nhat092005/fgpa-exam)** - Verilog projects (adders, FSMs, decoders) in Xilinx ISE/ISim.
-* **[Cadence VLSI Lab](https://github.com/nhat092005/cadence-vlsi-lab)** - VLSI design labs using Cadence tools.
 
 ### Software & Tools
-* **[Fibonacci Heap vs Binary Heap Benchmark](https://github.com/nhat092005/fibheap-analysis-bench)** - Dijkstra benchmark comparing heap types.
 * **[Agents-Skills](https://github.com/nhat092005/skills)** - Personal AI workspace: agents, skills, dev workflows.
 
 ## Stats
